@@ -12,6 +12,7 @@ Principal Software Engineer specializing in ASP.NET Core 8–10, EF Core 8-10, S
 
 ## 🚀 **My Current Goals**
 
+- Design local-first LLM solutions, vector search pipelines, and developer productivity tooling
 - Build **enterprise-grade .NET platforms** that emphasize simplicity and long-term reliability  
 - Deepen expertise in **low-level Linux, networking, and virtualization** (pfSense/OPNsense, Proxmox)  
 - Continue modernizing ecosystems from **legacy .NET → ASP.NET Core**  
@@ -95,6 +96,7 @@ DataTables + Bootstrap 5 + AJAX CRUD → highly maintainable, fast-to-extend adm
 
 ## 📁 **What You’ll Find in My GitHub**
 
+- Local-first LLM solutions
 - High-performance **data ingestion samples**
 - **Stripe workflow utilities**  
 - gRPC authentication patterns (API key + HMAC)  
