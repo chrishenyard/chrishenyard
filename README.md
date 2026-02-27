@@ -56,29 +56,33 @@ Principal Software Engineer specializing in ASP.NET Core 8–10, EF Core 8-10, S
 
 ## 🏆 **Highlighted Achievements**
 
+### **✔ Vector Search**
+ Semantic Code & Document Query Platform. Local-first AI system using embeddings, vector storage, and natural-language querying. GitHub: https://github.com/chrishenyard/Vector.Search
+:contentReference[oaicite:1]{index=1}
+
 ### **✔ Built multi-tenant architectures**
 Designed tenant-aware routing, scoped DbContexts, and middleware-based tenant resolution — enabling clean separation of customer data and behavior.  
-:contentReference[oaicite:1]{index=1}
+:contentReference[oaicite:1]{index=2}
 
 ### **✔ Implemented full Stripe billing ecosystems**
 PaymentIntents, Subscriptions, webhooks, retries, SetupIntents, 3DS, and async pipelines using Channels + Hosted Services.  
-:contentReference[oaicite:2]{index=2}
+:contentReference[oaicite:2]{index=3}
 
 ### **✔ Integrated Apple Wallet & Google Wallet**
 Delivered secure, dynamically updating passes for loyalty, membership, and credential systems.  
-:contentReference[oaicite:3]{index=3}
+:contentReference[oaicite:3]{index=4}
 
 ### **✔ Built high-speed ingestion pipelines**
 Capable of processing **7–15GB CSV files** using chunked streaming and dynamic schema execution.  
-:contentReference[oaicite:4]{index=4}
+:contentReference[oaicite:4]{index=5}
 
 ### **✔ Modernized legacy .NET ecosystems**
 Converted aging .NET Framework systems into high-performance ASP.NET Core platforms with dramatic reliability/performance improvements.  
-:contentReference[oaicite:5]{index=5}
+:contentReference[oaicite:5]{index=6}
 
 ### **✔ Delivered large admin systems with minimal JavaScript**
 DataTables + Bootstrap 5 + AJAX CRUD → highly maintainable, fast-to-extend admin dashboards.  
-:contentReference[oaicite:6]{index=6}
+:contentReference[oaicite:6]{index=7}
 
 ---
 
