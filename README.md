@@ -6,8 +6,7 @@
 # 👋 Hi, I'm **Christopher Henyard**
 ### **AI | & Platform Engineer | Architect | Problem Solver**
 
-AI and Platform Engineer specializing in ASP.NET Core 8–10, EF Core 8-10, SQL Server performance, Stripe integrations, Apple/Google Wallet, multi-tenant architecture, JavaScript, and large-scale data pipelines. Delivers clean, production-ready solutions with minimal supervision. Strong track record of building modern platforms, streamlining complex workflows, integrating payment systems, and processing massive datasets with high performance and accuracy. Recently expanded into AI application development, designing local-first LLM solutions, vector search pipelines, and developer productivity tooling.
-
+AI Engineer and Principal Software Engineer with over 20 years of experience building high-performance, scalable systems. Specializes in local-first AI applications, Retrieval-Augmented Generation (RAG), and vector search platforms. Strong background in ASP.NET Core, distributed systems, and large-scale data processing. Known for delivering production-ready solutions that optimize for performance, cost, and maintainability.
 ---
 
 ## 🚀 **My Current Goals**
